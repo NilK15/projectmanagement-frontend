@@ -1,5 +1,3 @@
 # Project Portfolio - Front-end
 
-#
-**Explore the various personal projects that are available for public viewing. 
-**
+# This project showcases the various projects that are avilable for public viewing.
